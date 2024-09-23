@@ -1,6 +1,6 @@
 # BASIC-PKG-TERMUX-STEP-
 
-termux-setup-storagess
+termux-setup-storage
 
 pkg install git
 
